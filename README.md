@@ -1,4 +1,4 @@
-# Ladne narzedzie fetch
+# Ładne i proste narzędzie fetch
 ![toi](https://github.com/NIPERR/FancyFetch/assets/82673619/3bd263fb-e676-407c-adec-2aa9da872894)
 
 ## Instalacja
