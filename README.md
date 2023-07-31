@@ -9,4 +9,4 @@ cd FancyFetch
 
 chmod +x FancyFetch.sh
 
-/.FancyFetch.sh
+./FancyFetch.sh
