@@ -3,10 +3,10 @@
 
 ## Instalacja
 
-git clone `https://github.com/NIPERR/FancyFetch`
+• git clone `https://github.com/NIPERR/FancyFetch`
 
-cd FancyFetch
+• cd FancyFetch
 
-chmod +x FancyFetch.sh
+• chmod +x FancyFetch.sh
 
-./FancyFetch.sh
+• ./FancyFetch.sh
